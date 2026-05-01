@@ -12,13 +12,11 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
-<img src="/static/imgs/graph1.png" width="500"/>
+<img src="exercises/ex09/graph1.png" width="500"/>
 
 <img src="/static/imgs/2.png" width="500"/>
 
 <img src="/static/imgs/3.png" width="500"/>
-
-<img src="/workspace/exercises/ex09/graph1.png" width="500"/>
 
 
 

@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../comp110-26s-workspace/exercises/ex09"
 		}
 	],
 	"settings": {}

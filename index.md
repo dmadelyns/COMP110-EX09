@@ -15,6 +15,11 @@ layout: default
 
 <img src="/static/imgs/graph1.png" width="500"/>
 
+<img src="/static/imgs/graph2.png" width="500"/>
+
+<img src="/static/imgs/graph3.png" width="500"/>
+
+
 ## Conclusion
 
 Given my analysis, there is a correlation between prior experience and how long students spend on online work, or assignments. My first two graphs portray that students who spend the most time on online work are those with none to less than a month of prior coding experience. Very few students spend more than 10 hours on lone work, but those who do also have none to less than a month of coding experience. My third graph, showing the distribution of pror experience in COMP 110, proves that the majority of students in the class have little to no prior experience with coding. Finally I conducted a helper function to see how many students spend 5 to 10 hours doing online work. My results showed that 200 students spend 5 to 10 hours on online work and 49 students spend 0 to 2 hours. My results prove that students with less prior coding experience spend more time on online work than those with more prior experience, and that the majority of students in COMP 110 have little to no prior coding experience. It would be benifical for students with little prior coding experience if the course better experienced students prior experiences. I would reccomend the assignments to have more instructions or be shorter help students better complete assignments. The downside of this modifcation is that students with more experience may feel like they are not getting sufficent practice. 

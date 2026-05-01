@@ -1,6 +1,7 @@
 ---
 # Do not edit the text between these lines!
 layout: default
+title: COMP 110 Data Analysis
 ---
 
 # Analysis Summary:
